@@ -1,7 +1,19 @@
-# WeGo Public Transit
+# WeGo Public Transit Analysis
 [WeGo Public Transit](https://www.wegotransit.com/) is a public transit system serving the Greater Nashville and Davidson County area. WeGo provides local and regional bus routes, the WeGo Star train service connecting Lebanon to downtown Nashville, along with several other transit services.
 
 The data for this project is not publicly available.
+
+# What I did
+
+For this project, I was initially focused on analyzing the relationship between bus drivers and headway deviation. After completing that analysis and visualization work in Python, I moved to the presentation team. On the presentation team, we worked with everyone on the project to provide a clear, consistent, and concise presentation on all of the data-driven insights we discovered. The presentation was performed by various team members and given to WeGo's Cheif Operating Officer, who provided us with fantastic feedback and additional insight into the work we had done.
+
+My personal python scripts are in the jupyter notebook wego_eda_jaredjab in the notebooks folder, with the wego_full_class_analysis jupyter notebook being a collection of everyone's analysis work.
+
+The viz folder contains my exported visualizations for the presentation.
+
+The WeGo Presentation PDF is the google slide presentation used in our final deliverable.
+
+# Project Overview
 
 In this project, you'll be analyzing the bus spacing to look for patterns and try to identify correlations to controllable or external factors. Specifically, you'll be using a dataset containing information on the headway, or amount of time between vehicle arrivals at a stop.
 
